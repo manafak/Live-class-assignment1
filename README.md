@@ -1,7 +1,9 @@
 # Live-class-assignment1
 a. Change directory to the tests directory using absolute pathname
 <img width="392" alt="A-solution" src="https://github.com/manafak/Live-class-assignment1/assets/149635098/d23f5cd0-5cd3-4b12-a466-924514bbf8df">
+
 b.Change directory to the tests directory using relative pathname
+<img width="271" alt="B-solution" src="https://github.com/manafak/Live-class-assignment1/assets/149635098/20e0f1ae-7caa-4930-a1e2-aedb4d92d87f">
 
 c.Use echo command to create a file named fileA with text content ‘Hello A’ in the misc directory
 

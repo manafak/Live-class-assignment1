@@ -24,6 +24,7 @@ h.Compress the tar archive to create a misc.tar.gz file
 <img width="268" alt="H-solution" src="https://github.com/manafak/Live-class-assignment1/assets/149635098/953ddb1c-0277-4a71-b03c-f4fe36090189">
 
 I. Create a user and force the user to change his/her password upon login
+<img width="506" alt="I-solution" src="https://github.com/manafak/Live-class-assignment1/assets/149635098/3d002ad1-dc21-401e-8de0-e167383db495">
 
 J. Lock a users password
 

@@ -29,6 +29,7 @@ I. Create a user and force the user to change his/her password upon login
 J. Lock a users password
 
 K. Create a user with no login shell
+<img width="429" alt="K-solution" src="https://github.com/manafak/Live-class-assignment1/assets/149635098/50234544-4ca2-407a-aba8-1d44191269dd">
 
 L. Disable password based authentication for ssh
 

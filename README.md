@@ -15,6 +15,7 @@ e.Copy contents of fileA into fileC
 <img width="566" alt="E-solution" src="https://github.com/manafak/Live-class-assignment1/assets/149635098/5e973d36-4db7-4a24-aa75-294e9e35d129">
 
 f.Move contents of fileB into fileD
+<img width="570" alt="F-solution" src="https://github.com/manafak/Live-class-assignment1/assets/149635098/a1c8e02f-31e9-4e06-85a0-481fdb1e88a9">
 
 g.Create a tar archive called misc.tar for the contents of misc directory
 

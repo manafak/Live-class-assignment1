@@ -21,6 +21,7 @@ g.Create a tar archive called misc.tar for the contents of misc directory
 <img width="337" alt="G-solution" src="https://github.com/manafak/Live-class-assignment1/assets/149635098/169468ea-60d9-4ac0-b4e6-3bc6b742a13c">
 
 h.Compress the tar archive to create a misc.tar.gz file
+<img width="268" alt="H-solution" src="https://github.com/manafak/Live-class-assignment1/assets/149635098/953ddb1c-0277-4a71-b03c-f4fe36090189">
 
 I. Create a user and force the user to change his/her password upon login
 

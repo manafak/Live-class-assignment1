@@ -12,6 +12,7 @@ d.Create an empty file named fileB in the misc directory. Populate the file with
 <img width="524" alt="D-solution" src="https://github.com/manafak/Live-class-assignment1/assets/149635098/1214ac11-5a13-4745-a732-c734dc79636a">
 
 e.Copy contents of fileA into fileC
+<img width="566" alt="E-solution" src="https://github.com/manafak/Live-class-assignment1/assets/149635098/5e973d36-4db7-4a24-aa75-294e9e35d129">
 
 f.Move contents of fileB into fileD
 

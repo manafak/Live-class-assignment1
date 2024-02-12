@@ -18,6 +18,7 @@ f.Move contents of fileB into fileD
 <img width="570" alt="F-solution" src="https://github.com/manafak/Live-class-assignment1/assets/149635098/a1c8e02f-31e9-4e06-85a0-481fdb1e88a9">
 
 g.Create a tar archive called misc.tar for the contents of misc directory
+<img width="337" alt="G-solution" src="https://github.com/manafak/Live-class-assignment1/assets/149635098/169468ea-60d9-4ac0-b4e6-3bc6b742a13c">
 
 h.Compress the tar archive to create a misc.tar.gz file
 
